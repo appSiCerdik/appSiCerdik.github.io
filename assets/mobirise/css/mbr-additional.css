@@ -1622,12 +1622,6 @@ a {
 .cid-sMoDOvw2c2 .row {
   justify-content: center;
 }
-.cid-sMoCtfZxef {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-sMoSXkbxn4 {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1687,4 +1681,10 @@ a {
 .cid-sMoSXkbxn4 .item-subtitle {
   text-align: left;
   color: #232323;
+}
+.cid-sMoCtfZxef {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
