@@ -1965,7 +1965,7 @@
               "margin-bottom": "0"
             },
             "H3": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "content16",
