@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "App Si Cerdik",
-    "currentPage": "Login.html",
+    "currentPage": "Si-Cerdik.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -42,7 +42,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 52,
+    "uniqCompNum": 58,
     "versionPublish": "5.4.1",
     "imageResize": false,
     "screenshot": "screenshot.png",
@@ -64,7 +64,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -753,7 +753,7 @@
     "Si-Cerdik.html": {
       "settings": {
         "title": "Dashboard Si-Cerdik",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1462,7 +1462,7 @@
         }
       ]
     },
-    "Login.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Log in",
