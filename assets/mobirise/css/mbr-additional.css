@@ -2086,6 +2086,36 @@ a {
     width: 100%;
   }
 }
+.cid-sMyCi1oTIy {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sMyCi1oTIy .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-sMyCi1oTIy .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-sMyCi1oTIy .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #1150c2;
+}
+.cid-sMyCi1oTIy .panel-body,
+.cid-sMyCi1oTIy .card-header {
+  padding: 1rem 0;
+}
+.cid-sMyCi1oTIy .panel-title-edit {
+  color: #000000;
+}
+.cid-sMyCi1oTIy H3 {
+  text-align: left;
+}
 .cid-sMmFOoDTNS {
   padding-top: 30px;
   padding-bottom: 30px;
